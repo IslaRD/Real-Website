@@ -1,10 +1,10 @@
-.container {
+.container border=1 {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 	padding: 3px;
 }
 
-.container div {
+.container div{
 	padding: 10px;
 	margin: 5px;
 	font-size: 18px;
